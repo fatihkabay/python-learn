@@ -1,3 +1,4 @@
+#girilen iki sayýnýn girilen iþlemi yapma kodlarýdýr.
 x=float(input("Birinci Sayýyý Giriniz: "))
 y=float(input("Ýkinci Sayýyý Giriniz: "))
 sec=input("Seçiminizi Yapýnýz(+,-,*,/): ")
