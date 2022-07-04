@@ -1,4 +1,4 @@
-#bir sayýnýn sýfýra tam bölünüp bölünmediðini gösteren yazýlým dosyasýdýr.
+#bir sayinin sýfýra tam bölünüp bölünmediðini gösteren yazýlým dosyasýdýr.
 bolum=int(input("Bölünecek sayýyý giriniz: "))
 bolen=int(input("Bölen sayýyý giriniz "))
 if bolen!=0:
